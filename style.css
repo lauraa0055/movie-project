@@ -1,4 +1,6 @@
-h1 {
+.wrapper {
 font-family: 'Bungee', cursive;
 color:red;
+margin: 34px;
 }
+
