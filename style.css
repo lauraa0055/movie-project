@@ -2,6 +2,8 @@
 h1 {
 font-family: 'Bungee', cursive;
 color:#8F1B07;
+text-align:center;
+position:relative;
 }
 .wrapper {
 font-family: 'Bungee', cursive;
