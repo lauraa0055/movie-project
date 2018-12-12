@@ -1,14 +1,14 @@
 
-hr{
-     background-color:#000000;
-}
+
 h1 {
+    
 font-family: 'Bungee', cursive;
 color:#8F1B07;
 text-align:center;
 position:relative;
 }
 .wrapper {
+    
 font-family: 'Bungee', cursive;
 color:red;
 margin: 34px;
@@ -16,6 +16,7 @@ margin: 34px;
 
 p{
   font-family: "Charmonman", Cursive;  
+  color:#fff;
 }
 
 #pic{
