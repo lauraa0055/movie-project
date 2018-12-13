@@ -18,8 +18,17 @@ p{
   font-family: "Charmonman", Cursive;  
   color:#fff;
   text-align: left
+  
 }
 
 #pic{
     margin-left: 850px;
+}
+
+#background{
+  opacity: .2
+}
+
+{
+  opacity:.2;
 }
