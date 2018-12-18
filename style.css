@@ -1,17 +1,20 @@
-
-
 h1 {
 font-family: 'Bungee', cursive;
 color:#000000;
 text-align:center;
 position:relative;
 }
+
 .wrapper {
-    
-font-family: 'Bungee', cursive;
-color:red;
-margin: 34px;
+
+  font-family: 'Bungee', cursive;
+  color: red;
+  margin: 34px;
 }
+
+
+
+
 
 p{
   font-family: "Charmonman", Cursive;  
@@ -29,11 +32,9 @@ p{
 
 #pic2{
   margin-right: 1300px;
+
 }
 
 
-img{
-  
-}
 
 
