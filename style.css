@@ -1,5 +1,5 @@
 h1 {
-font-family: 'Bungee', cursive;
+font-family: 'Staatliches', cursive;
 color:#000000;
 text-align:center;
 position:relative;
@@ -17,37 +17,31 @@ position:relative;
 
 
 p{
-  font-family: "Charmonman", Cursive;  
+  font-family: 'Oswald', sans-serif;
   color:black;
-  margin-bottom: 1712px;
-  text-align: center;
+  text-align-last: center;
+  margin-bottom: 150px; 
+  merge-bottom: 200px;
   font-size: 30px;
 
   
 }
 
 #pic1{
-   margin-left: 1300px;
+   margin-left: 1200px;
+   /*margin-bottom: 100px;*/
 }
 
 #pic2{
   margin-right: 1300px;
-  mnargin-bottom: 600px;
-
+  display: center;
+  mnargin-top: 100px;
+ 
 }
 
 #pic3{
-  margin-left: 1200px;
+  margin-left:  1200px;
+  
 }
 
-#pic4{
-  margin-left: 1195px;
-}
 
-#pic5{
-    margin-left: 1185px;
-}
-
-#pic6{
-    margin-left: 1175px;
-}
