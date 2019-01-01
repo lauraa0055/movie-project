@@ -78,11 +78,18 @@ p{
 
 
 #float2{
-  float: left;
-  margin-bottom: 100px;
+height: 150px;
+  /*float: left;*/
+
 }
 
 .blue-button{
  background-color: #89cff0;
  color: black;
+}
+
+#video{
+    float: left;
+    margin-left: 150px;
+
 }
